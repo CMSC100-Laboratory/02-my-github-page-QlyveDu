@@ -16,4 +16,4 @@ _PS: you can also read the [docs _here..._](https://docs.github.com/en/pages)_
 * To be continued... _I have not finished the exercise yet_
 
 ## References ##
-[REFERENCES]_(https://docs.google.com/document/d/1nR_CTCsIWUj6e5kg4KPUSQYLuIrjvveqoUjMqWVYv5E/edit?usp=sharing)_
+_[REFERENCES](https://docs.google.com/document/d/1nR_CTCsIWUj6e5kg4KPUSQYLuIrjvveqoUjMqWVYv5E/edit?usp=sharing)_
