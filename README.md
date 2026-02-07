@@ -5,9 +5,8 @@ _BS Computer Science_ <br>
 ### Steps on how to create GitHub page
 1. Create A repository and make sure it is set on public
 2. With your html, push your _**index.html**_ to your repo
-3. Go to **Settings** of your repo and on the category of **Pages**
-4. Under the **Build and Deployment** click on and change selected branch to **main** or your desired branch then press save.
-5. **Most Importantly!** wait a couple of minutes and go back to **Pages** where you will see the link assigned to your website!
+3. Go to **Settings** of your repo and on the category of **Pages**, under the **Build and Deployment** click on and change selected branch to **main** or your desired branch then press save.
+4. **Most Importantly!** wait a couple of minutes and go back to **Pages** where you will see the link assigned to your website!
 
 _PS: you can also read the [docs _here..._](https://docs.github.com/en/pages)_
 
