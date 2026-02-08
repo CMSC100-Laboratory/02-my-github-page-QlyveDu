@@ -12,7 +12,7 @@ _PS: you can also read the [docs _here..._](https://docs.github.com/en/pages)_
 
 ### What are my key takeaways from this exercise? 
 * Frontend is hell, a lot of exeperience and niche stuff. I'm amazed by how people before our current technology was able to make websites and do not get tired off repeating and trying out different attributes or effects just to follow your dream website...
-* To be continued... _I have not finished the exercise yet_
+* I enjoyed doing the exercise, though as I expected it is really a lot of information, and a lot more things to explore!
 
 ## References ##
 _[REFERENCES](https://docs.google.com/document/d/1nR_CTCsIWUj6e5kg4KPUSQYLuIrjvveqoUjMqWVYv5E/edit?usp=sharing)_
