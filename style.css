@@ -111,7 +111,6 @@ body {
 .about_text h2{
     font-size: 32px;
     font-weight: 400;
-    margin: 30px;
 }
 
 .about_text p{
@@ -167,6 +166,7 @@ body {
     object-fit: contain;
 }
 
+/* PROJECTS */
 .section_projects {
     background-color: #000;
     width: 100%;
@@ -174,14 +174,6 @@ body {
     color:#ffffff
 }
 
-.section_other_skills {
-    background-color: #000;
-    width: 100%;
-    padding: 80px 0;
-}
-
-
-/* PROJECTS */
 .section_projects h2 {
     font-size: 32px;
     font-weight: 400;
@@ -239,4 +231,58 @@ body {
     width: 40px;
     height: 40px;
     object-fit: contain;
+}
+
+/* OTHER SKILLS */
+.section_other_skills {
+    background-color: #F15025;
+    color: #000;
+    width: 100%;
+    padding: 80px 0;
+}
+
+.section_other_skills h2 {
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.skill_content {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 100px 60px;
+    padding: 0 40px;
+    gap: 60px;
+    align-items: center;
+}
+
+.skill_container.reverse {
+    flex-direction: row-reverse;
+}
+
+.skill_text {
+    flex: 1;
+    text-align: left;
+}
+
+.skill_text h3 {
+    font-size: 24px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.skill_text p {
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 1.8;
+}
+
+.skill_image {
+    width: 400px;
+    flex-shrink: 0;
+}
+.skill_image img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
